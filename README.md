@@ -1,16 +1,8 @@
 # uas_pemrogramanmobile
 
-A new Flutter project.
+NAMA  : Luthfi Muzhaffar Lubis
+NIM   : 211402119
+KOM   : B
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-12-18 195819](https://github.com/LuthfiMuzhaffar/uas_pemrogramanmobile/assets/107231594/b091594b-e64b-4741-816a-1f0369f4fc3e)
